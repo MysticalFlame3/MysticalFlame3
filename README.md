@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Raj Surya
+# 👋 Hi, I'm Surya Raj
 
 I'm a results-driven developer passionate about designing and building end-to-end platforms. I thrive on developing intelligent and scalable applications, ranging from AI-powered schedulers to multi-modal generative platforms. My expertise spans robust backend engineering with Spring Boot and dynamic frontend development with React.
 
