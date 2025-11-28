@@ -3,7 +3,7 @@
 I'm a results-driven developer passionate about designing and building end-to-end platforms. I thrive on developing intelligent and scalable applications, ranging from AI-powered schedulers to multi-modal generative platforms. My expertise spans robust backend engineering with Spring Boot and dynamic frontend development with React.
 
 ## 📫 Contact Me
-- Email: [rajsurya3933@gmail.com](mailto:onf1696@gmail.com)
+- Email: [rajsurya3933@gmail.com](mailto:rajsurya3933@gmail.com)
 
 ## 🛠️ Tech Stack
 
